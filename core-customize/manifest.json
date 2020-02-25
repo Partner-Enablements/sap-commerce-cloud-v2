@@ -274,7 +274,7 @@
                 },
                 {
                     "name" : "backoffice",
-                    "contextPath" : "",
+                    "contextPath" : ""
                 },
                 {
                     "name" : "mediaweb",
